@@ -1,4 +1,4 @@
-# 📦 Task-Brimag Backend (Express + Prisma + PostgreSQL)
+# 📦 Task-Brimag (React + Express + Prisma + PostgreSQL)
 
 Project Link : https://task-brimag-frontend.onrender.com/
 
