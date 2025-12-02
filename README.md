@@ -30,19 +30,6 @@ It provides a clean REST API to manage production orders with full CRUD support.
 
 ---
 
-backend/
-├─ prisma/
-│ ├─ schema.prisma
-│ └─ migrations/
-├─ src/
-│ ├─ routes/
-│ │ └─ order.routes.js
-│ ├─ db/
-│ │ └─ db.js
-│ └─ index.js
-├─ .env
-├─ package.json
-└─ README.md
 
 # 📌 API Routes Overview
 
@@ -76,5 +63,4 @@ Expected JSON body:
 }
 
 
-## 📁 Folder Structure
 
