@@ -13,7 +13,8 @@ const OrderList = () => {
   });
 
   // const API_URL = "http://localhost:3000/api"; 
-  const API_URL = "http://13.49.225.124:3000/api";
+  // const API_URL = "http://13.49.225.124:3000/api";
+   const API_URL ="https://task-brimag-4.onrender.com/api";
 
 
   
