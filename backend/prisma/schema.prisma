@@ -15,7 +15,7 @@ datasource db {
 }
 
 model Order {
-  orderId          Int      @id @default(autoincrement())
+  orderId     String   @id @default(uuid())
   productName String
   quantity    Int
   status      Status   @default(PENDING)
